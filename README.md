@@ -1,5 +1,5 @@
 # CS_612_Assignment_3_part_1
-> Unzip and open the file in Eclipse.
+Unzip and open the file in Eclipse.
 In the src folder comment the public void work() method in Doctor.java, Nurse.java and Surgeon.java
 Run the Hospital.java file
 the expected output should be:
